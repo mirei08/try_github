@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp2
 {
-    class Class2
+    class Add
     {
+        public int add(int a, int b)
+        {
+            return a + b;
+
+        }
     }
 }
